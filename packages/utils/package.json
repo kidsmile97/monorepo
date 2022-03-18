@@ -1,0 +1,9 @@
+{
+  "name": "@kang97/utils",
+  "version": "0.0.1",
+  "description": "javascript utils",
+  "main": "index.js",
+  "author": "kanglin",
+  "license": "ISC",
+  "private": false
+}

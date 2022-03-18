@@ -1,0 +1,11 @@
+{
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "fileheader.configObj": {
+    "autoAdd": false,
+    "createHeader": false
+  },
+  "cSpell.words": [
+    "kang"
+  ]
+}

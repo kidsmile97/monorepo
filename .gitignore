@@ -1,0 +1,11 @@
+# 安装包
+node_modules/
+
+# 命令调试日志
+lerna-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# mac os 文件标识
+.DS_Store
